@@ -1,6 +1,6 @@
 :root {
     --amarrillo: #E9F802;
-    --amarrillopalido: #d5ff57d4;
+    --amarrillopalido: #4d630cd4;
     --negro: #000;
     --blanco: #fff;
     --celeste: #62B8E0;
@@ -138,7 +138,7 @@ body{
 .ojoexterno .ojoInterno{
     width: 30px;
     height: 30px;
-    background: transparent);
+    background: transparent;
     border-radius: 50%;
     position: relative;
     top: 10px;
